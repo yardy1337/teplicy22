@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xn--22-mlcmoxt0b7b.xn--p1ai/sitemap.xml
